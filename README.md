@@ -1,7 +1,15 @@
 # 🎮 Um Lugar Escuro — Jogo 2D Plataforma
 
-![Status do Projeto](https://img.shields.io)
-![Unity](https://img.shields.io)
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40""")/>>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adicione mais destes para aumentar o espaço -->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40""")/>>
+  </a>
+</p>
+
 
 **Um Lugar Escuro** é um jogo de plataforma 2D em pixel art, desenvolvido na engine Unity. O projeto foca em movimentação precisa, ambientação imersiva e uma narrativa metafórica sobre os desafios internos da mente humana.
 
